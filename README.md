@@ -105,9 +105,9 @@ El ecosistema competitivo de Pokémon se sostiene sobre una lógica clara:
 ---
 ## 📊 Vista del Dashboard en Power BI
 
-![Analisis de poder](imagenes/dashboard_1.png)
-![Poder Maximo y Evolucion](imagenes/dashboard_2.png)
-![Analisis Competitivo](imagenes/dashboard_3.png)
+![Analisis de poder](imagenes/Dashboard_1.png)
+![Poder Maximo y Evolucion](imagenes/Dashboard_2.png)
+![Analisis Competitivo](imagenes/Dashboard_3.png)
 
 
 
