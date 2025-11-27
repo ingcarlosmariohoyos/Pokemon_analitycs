@@ -102,6 +102,16 @@ El ecosistema competitivo de Pokémon se sostiene sobre una lógica clara:
 - **Roles + Tipos + Megaevoluciones conforman el metajuego actual**
 ---
 
+---
+## 📊 Vista del Dashboard en Power BI
+
+![Analisis de poder](imagenes/dashboard_1.png)
+![Poder Maximo y Evolucion](imagenes/dashboard_2.png)
+![Analisis Competitivo](imagenes/dashboard_3.png)
+
+
+
+---
 ## 🚀 Uso del Proyecto
 
 Sigue estos pasos para ejecutar el proyecto en cualquier máquina:
